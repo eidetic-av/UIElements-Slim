@@ -1,5 +1,5 @@
 # UIElements-Slim
-Create Unity UIElements UXML files using the [Slim template engine](http://slim-lang.com/). Works great alongside [UIElements-Sass](https://github.com/eidetic-av/UIElements-Slim).
+Create Unity UIElements UXML files using the [Slim template engine](http://slim-lang.com/). Works great alongside [UIElements-Sass](https://github.com/eidetic-av/UIElements-Sass).
 
 # Why
 XML is a pain to write and looks messy. Slim removes the bloat and adds features like variables, functions, loops.
