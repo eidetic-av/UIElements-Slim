@@ -57,7 +57,9 @@ UIElements-Slim assumes you have a working ruby installation with the slim gem.
 You can do this like so:
 
 On Windows: `choco install ruby` then `gem install slim`.
+
 Mac: `brew install ruby` then `gem install slim`.
+
 Ubuntu: `sudo apt-get install ruby` then `gem install slim`.
 
 Then you can clone this repo, add it as a submodule, or download the zip and extract it into your Unity project.
